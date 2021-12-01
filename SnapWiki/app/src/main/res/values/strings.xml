@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snap Wiki</string>
+    <string name="click">Click</string>
+    <string name="result">Result</string>
+    <string name= "email"> Email</string>
+    <string name="password">Password</string>
+    <string name="todo">Description</string>
+    <string name="google"> GooGle</string>
+    <string name="username">UserName</string>
+    <string name="already_account">Already hav account?</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">Sign in</string>
+</resources>

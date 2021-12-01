@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573970485799",
+    "project_id": "snapwiki-ca380",
+    "storage_bucket": "snapwiki-ca380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573970485799:android:559b1582ce19a1a7483402",
+        "android_client_info": {
+          "package_name": "com.dsv.snapwiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573970485799-ir30jjgus0n9nhso941iqhrnqc35591m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYo-4m_GkiilRHSXlboxVkffBwgEQq_hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573970485799-ir30jjgus0n9nhso941iqhrnqc35591m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
